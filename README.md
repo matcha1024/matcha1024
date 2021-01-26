@@ -1,10 +1,10 @@
 学生です。
 
 # Web Site
-https://mc-note-functioner.herokuapp.com/
+https://matcha1024.herokuapp.com/
 
 # MC Note Functioner
-https://mc-note-functioner.herokuapp.com/mc-note-functionner  
+https://matcha1024.herokuapp.com/mc-note-functionner  
 リポジトリ：https://github.com/matcha1024/mc-note-functioner  
 # Link
 [Twitter](https://twitter.com/matcha_1024)  
